@@ -180,8 +180,23 @@ Once the contract is deployed, it can be verified with complete details like Gas
 
 ![withdrawal_5ether](https://user-images.githubusercontent.com/86034323/141767601-5d4f2d7b-ad80-43fa-a2b6-85c4f85c71df.png)
 
+- Contract Balance has been reduced by 5 Quintillion Wei, updated amount is: 11 Quintillion Wei
+
+![withdrawal_5ether_contractbalance](https://user-images.githubusercontent.com/86034323/141768221-c3d7e275-36ac-4d06-a175-ba8524e84577.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**5. WITHDRAWAL 10 ETHERS IN WEI:**
+
+- TRX_5: Withdrawal of 10 Ethers on scale of Wei i.e. 10000000000000000000 (10 Quintillion Wei) for account2 (0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0) with Contract Balance of 11 Ethers:
+
+![withdrawal_10ether](https://user-images.githubusercontent.com/86034323/141768789-6c1b7650-c884-496c-83b3-e3e998b78470.png)
+
+- Contract Balance has been reduced by 10 Quintillion Wei, updated amount is: 1 Quintillion Wei (1 Ether)
+
+![withdrawal_10ether_contractbalance](https://user-images.githubusercontent.com/86034323/141769031-7a81929b-9886-4079-9436-16f4e0215d2c.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **CONTRIBUTOR**
 
