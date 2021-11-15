@@ -31,8 +31,6 @@ Version Used: Pragma Solidity 0.5.0
 4. Define a `public payable` function named **`deposit`**
 5. Define a `public` function named `setAccounts` that receive two `address payable` arguments named `account1` and `account2`.
 
-**CORE FUNCTIONALITY:**
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
